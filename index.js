@@ -23,5 +23,9 @@ class Circle {
   }
 
 
+  set radius(radius){
+   this.radius =this.radius
+
+  }
 
 }
