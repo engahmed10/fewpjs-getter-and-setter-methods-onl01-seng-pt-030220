@@ -9,7 +9,7 @@ class Circle {
   }
 
   get diameter(){
-    return  this.radius*2
+    return  this.radius * 2
   }
 
   get circumference(){
@@ -26,8 +26,8 @@ class Circle {
 
 //  Define setter methods for diameter, circumference, and area
 
-set diameter(){
-
+set diameter(radius){
+   this.radius =radius
 }
 set circumference(){
 
