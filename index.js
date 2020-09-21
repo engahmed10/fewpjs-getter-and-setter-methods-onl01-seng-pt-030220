@@ -4,28 +4,6 @@ class Circle {
     this.radius=radius;
   }
 
-  get radius(){
-   return  this.radius
-  }
-
-  get diameter(){
-    return  this.radius*2
-  }
-
-  get circumference(){
-
-  }
-
-  get area(){
-
-    //pi *radius^2
-    return ((this.radius * this.radius) * Math.PI)
-  }
-
-
-  set radius(radius){
-   this.radius =this.radius
-
-  }
+  
 
 }
