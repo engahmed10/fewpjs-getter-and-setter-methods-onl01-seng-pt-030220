@@ -27,10 +27,10 @@ class Circle {
 //  Define setter methods for diameter, circumference, and area
 
 set diameter(){
-  
+
 }
 set circumference(){
-  
+
 }
 
 set area(radius){
