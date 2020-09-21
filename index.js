@@ -9,8 +9,8 @@ class Circle {
 
   }
 
-  set radius(){
-
+  set radius(radius){
+   this._radius =radius
     
   }
 
