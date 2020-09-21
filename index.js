@@ -9,6 +9,20 @@ class Circle {
   return  this.radius
   }
 
+  get diameter(){
+
+    
+  }
+
+  get circumference(){
+    
+  }
+
+  get area(){
+    this.radius and pi
+  }
+
+
   set radius(radius){
    this.radius =this.radius
 
