@@ -25,21 +25,4 @@ class Circle {
 
 
 
-//  Define setter methods for diameter, circumference, and area
-
-set diameter(radius){
-   this.radius =radius
-}
-set circumference(){
-
-}
-
-set area(radius){
-
-  //pi *radius^2
-  this.radius= ((this.radius * this.radius) * Math.PI)
-}
-
-
-
 }
