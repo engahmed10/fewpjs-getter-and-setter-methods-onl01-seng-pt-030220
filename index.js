@@ -14,7 +14,7 @@ class Circle {
   }
 
   get circumference(){
-    return   this.length * Math.PI
+    return   this.diameter() * Math.PI
   }
 
   get area(){
